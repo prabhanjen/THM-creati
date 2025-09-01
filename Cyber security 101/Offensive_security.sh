@@ -16,6 +16,7 @@ nano script.sh
 # we can see /bank-transfer with the status code 200 which is our necessary result
 
 #then use below  command to open the website through terminal 
-xdg-open http://fakebank.thm/bank-transfer
+# open the below url with your browser
+ http://fakebank.thm/bank-transfer
 
 #then according to the ask transfer the amount to your account
